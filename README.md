@@ -14,7 +14,7 @@ I am a **Multidisciplinary Developer & Creative** working at the intersection of
 | Section | Current Focus & Interests |
 | :--- | :--- |
 | 🔭 **I’m currently working on** | $\text{My own game project}$ |
-| 🌱 **I’m currently learning** | Deeper understanding of $\text{Javascript, Aseprite and Godot Engine}$ and advanced $\text{VFX and Animation}$ techniques. |
+| 🌱 **I’m currently learning** | Deeper understanding of $\text{Javascript/Aseprite/Godot Engine}$ and advanced $\text{VFX/Animation}$ techniques. |
 | 👯 **I’m looking to collaborate on** | Open-source $\text{Game Dev with Godot Engine}$ or $\text{2D/3D Animation}$ projects. |
 | 💬 **Ask me about** | $\text{Adobe Creative Suite}$ (PS, Ai, Pr, Ae, Ch...), $\text{3D Industry}$ (Blender, Unreal Engine and Substance Painter 3D), and generally $\text{Web and Game Development}$. |
 | 📫 **How to reach me** | [furkanturkarslan@gmail.com] or [www.linkedin.com/in/furkan-türkarslan]. |
